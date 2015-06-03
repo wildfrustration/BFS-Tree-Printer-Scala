@@ -1,6 +1,8 @@
 # BFS Tree-Printer-Scala
 
 This is scala implementation of the BFS algorithm.
+
+Simple O(n) complexity, O(n) non-recursive BFS traversal
  
 Breadth-first search (BFS) is an algorithm for traversing or searching tree or graph data structures
 
