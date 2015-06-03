@@ -6,6 +6,7 @@ Breadth-first search (BFS) is an algorithm for traversing or searching tree or g
 
 INPUT
 -
+```
       1
      / \
     3   5
@@ -13,11 +14,14 @@ INPUT
   2   4   7
  / \   \
 9   6   8
+```
 
 
 OUTPUT
 -
+```
 1
 3 5
 2 4 7
 9 6 8 
+```
